@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+So you want to be an independent professional - Freelance?
 
-You can use the [editor on GitHub](https://github.com/field-engineer/ethernet/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For most of us, working independently is like a dream come true. Having the opportunity to be our own boss, working the hours we want, and being responsible for our own success ... sounds great - and it is - but being independent full time is not for everyone. While some independent professionals manage to thrive, others discover that they are not as good at working alone as they have become accustomed to working for a company on a fixed schedule.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You're not the only one who has ever thought about leaving his full-time job to work on his own. In fact, right now many people are working independently and according to some studies, it is estimated that 60% of them decided to change by choice and not by necessity. However, many people prefer to work full time in a traditional office environment. Maybe it's because of teamwork and the exchange of ideas with your office colleagues or even because of the possibility of sharing a joke with the partner in the cubicle next door. Maybe, they just do not feel inclined to become independent because they are very used to that routine.
 
-### Markdown
+As in everything, there are those who do not have an adequate profile to become independent professionals. So before taking the step, you must take into account the following aspects of a freelance's life, to find out if working in this way can work for you:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/field-engineer/ethernet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You will work alone
+Working as a freelancer can be a solitary profession. Although previously you worked in the middle of the hustle and bustle of an office environment, now you will do it from your home, with your laptop, Mac or PC. In other words, you will be isolated to a certain extent and unless you interview with a client, you meet with your colleagues or project partners, there will be times when you could spend a whole day without using your voice. Such isolation can affect your mood and your work. If you are very used to interacting with other people while you work, consider sharing an office with someone or renting a coworking space.
+You will need Self-discipline
+When starting to work independently,[Contingent Employment](https://www.fieldengineer.com/blogs/what-is-contingent-employment/) it is very tempting to give everything and work until late at night. But those hours of night work will only cause you to feel very tired and that getting up in the morning is very difficult. Then think that if you are working for yourself, you should set your own schedule and sleep as necessary to be always alert. Remember that to be aware of your customers, you must adapt to their schedules and respond promptly, when they ask for updates and set delivery times. It is imperative that you be available when you ask for support.
+Establish a schedule, objectives and expectations
+Whether you are working on a last minute project or have all the time in the world, it is important for independent workers to set deadlines and manage expectations with customers. Determine how the final product will look, when the final delivery will be and how it will be carried out, helps freelancers to meet their deadlines in time and form, thus allowing customers to know what they are going to obtain.
+You have to deal with customers
+Unless you have gained experience in customer service in the company where you worked, your first obstacle will be to learn to communicate with them. Customer service means being courteous, direct and that your communication is effective in reaching agreements. There is no place for exasperation or sarcasm, much less when you face a truly difficult client. Think of it this way: the client is now your boss and you have to treat him as such. A large number of clients like to interact with independent professionals, so you must deliver the work in a timely manner to impress them and maintain a constant working relationship for a long time.
+Know how to sell yourself
+Maybe because of your knowledge you are a great web designer, have a gift to tell stories or excellent skills as a programmer, but if you do not have a personal marketing strategy, nobody will know that you are open to new job opportunities. Every good freelance must have a strong online presence, from social media accounts (with a professional profile, please) to a personal website and a digital portfolio. Having a well-defined personal brand will help you promote your image as a professional among your current or potential clients.
+Learn to negotiate
+Being a freelancer, income depends directly on your rates and there are no special bonuses like when you worked in an office. To be successful, you have to be able to negotiate reasonable work rates. There is nothing wrong with starting with low rates, as long as you raise them steadily as you gain experience and reputation. At all times you must be improving your skills to deserve a better payment.
+Keep track of all the great ideas
+At some point, you will be working on a good number of projects with different phases of execution. Keeping track of all the ideas and inspirations associated with each of them, are skills that demonstrate a great organization and first level for an independent professional.
+Communicate effectively
+It seems obvious, but effective communication builds a foundation for business success. This is even more pressing for independent workers. Going beyond to be aware of the communication, can help eliminate the physical distance between the freelance and his client. Being available through email, by phone or in a video chat is a necessity, but it can be complemented with other forms, such as sharing the screen of different applications, to show your clients a more complex and detailed work vision.
+Follow up, build a network and grow an independent business
+Finishing a project and sending an invoice to your client could be interpreted as the end of the employment relationship, but it is not. You can follow up with the client for one or two weeks, after the project has been delivered and ask for your opinion. If it's positive, ask for a recommendation to show it to potential customers on your social networks, such as LinkedIn. You could also ask them to give you a brief testimony of their experience working with you, to publish it on your website or portfolio.
